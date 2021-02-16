@@ -6,9 +6,9 @@ Zillow is an online property listing platform that millions of people use to sea
 ## What is This?
 This is a web scraper that scrapes certain information from the Zillow website. If you need large amounts of home listings or infromation from Zillow or maybe you're just tired of scrolling through all the listings, then this web scraper can solve your problem. 
 
-A web scraper is able to crawl a webpage, download the html, and then parse throught that html and scrape the information you want from the webpage. The advantages of web scrapers is that they can collect a lot of information very fast. If you need to prepare an excel workbook of home listings, this is the tool for you. 
+A web scraper is able to crawl a webpage, download the html, and then parse throught that html and scrape the information you want from the webpage. The advantages of web scrapers is that they collect large amounts of data very fast. If you need to prepare an excel workbook of home listings, this is the tool for you. 
 
-Simply running this code will output an excel workbook containing 10 pages (400 properties) of listings for the city you designate.
+Simply running this code will output an excel workbook containing 10 pages (400 properties) of listings for the city you choose.
 
 
 # Usage
@@ -51,6 +51,7 @@ Then the program will save the output of the program as an xlsm file with the na
 
 
 The program will give you an excel file with seven (7) columns:
+
 * prices
 * address
 * beds 
@@ -58,6 +59,7 @@ The program will give you an excel file with seven (7) columns:
 * home type
 * baths
 * sqft
+
 
 
 # Modules
