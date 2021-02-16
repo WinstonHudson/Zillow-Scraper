@@ -1,4 +1,4 @@
-# Zillow Scraper
+# Zillow Web Scraper
 
 Zillow is an online property listing platform that millions of people use to search for homes. It is so popular there are even Super Bowl commercials joking about how people surf the website in their spare time. In addition to its popularity with the public, it is also a platform that is highly useful to real estate agents, brokers, developers, and investors. It has a searchable interface that allows the user to find details about home listings in a specific area. 
 
